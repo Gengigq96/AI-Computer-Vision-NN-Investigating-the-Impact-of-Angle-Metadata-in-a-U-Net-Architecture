@@ -54,7 +54,13 @@ The angle information was incorporated in different parts of the **U-Net** archi
 The GIF below **compares the predictions** of the **Baseline Model** vs. the **Best Model** (which incorporates angle metadata at all stages).  
 
 **🔽 Predictions Comparison (Baseline vs. Best Model) 🔽**  
-![Model Comparison](./predictions_comparison.gif)  
+-  ** Baseline ** 
+![image](https://github.com/user-attachments/assets/2db4bb91-d728-4422-a1c5-07dfba6839d4)
+-  **Best model with angle intereted**
+![image](https://github.com/user-attachments/assets/55308484-4143-47e4-88ec-78dd5cdf8286)
+
+
+
 
 ### Key Observations:
 ✅ The **angle-enhanced model** provides more refined segmentation.  
