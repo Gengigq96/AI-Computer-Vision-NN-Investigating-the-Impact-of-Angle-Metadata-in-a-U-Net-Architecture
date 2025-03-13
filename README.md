@@ -52,14 +52,14 @@ The angle information was incorporated in different parts of the **U-Net** archi
 ## 📊 Results  
 
 The GIF below **compares the predictions** of the **Baseline Model** vs. the **Best Model** (which incorporates angle metadata at all stages).  
-<div style="display: flex; justify-content: space-evenly;">
-    <div style="text-align: center;">
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; margin-right: 20px;">
         <p><strong>Baseline</strong></p>
-        <img src="https://github.com/user-attachments/assets/2db4bb91-d728-4422-a1c5-07dfba6839d4" alt="Baseline GIF" />
+        <img src="https://github.com/user-attachments/assets/2db4bb91-d728-4422-a1c5-07dfba6839d4" alt="Baseline GIF" width="300" />
     </div>
     <div style="text-align: center;">
         <p><strong>Best model with angle interested</strong></p>
-        <img src="https://github.com/user-attachments/assets/55308484-4143-47e4-88ec-78dd5cdf8286" alt="Best Model GIF" />
+        <img src="https://github.com/user-attachments/assets/55308484-4143-47e4-88ec-78dd5cdf8286" alt="Best Model GIF" width="300" />
     </div>
 </div>
 
@@ -71,12 +71,3 @@ The GIF below **compares the predictions** of the **Baseline Model** vs. the **B
 ✅ The network effectively **learns from angle metadata**, even under extreme noise.  
 ✅ The best results are obtained when integrating angle information **at all stages**.  
 
----
-
-## 🛠️ How to Run the Project  
-
-### 1️⃣ Install Dependencies  
-
-```bash
-pip install numpy opencv-python matplotlib tensorflow keras segment-anything
->>>>>>> 968c354 (aproach u-net model approach)
