@@ -68,3 +68,8 @@ The GIF below **compares the predictions** of the **Baseline Model** vs. the **B
 ✅ The network effectively **learns from angle metadata**, even under extreme noise.  
 ✅ The best results are obtained when integrating angle information **at all stages**.  
 
+
+## Curious about the best model and the improvement that boosted image segmentation by 10%?
+
+If you'd like to know which model performed the best and discover the specific addition that enhanced image segmentation by 10%, feel free to reach out via email at [genisgq@gmail.com](mailto:genisgq@gmail.com).
+
