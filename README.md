@@ -51,7 +51,7 @@ The angle information was incorporated in different parts of the **U-Net** archi
 
 ## 📊 Results  
 
-The GIF below **compares the predictions** of the **Baseline Model** vs. the **Best Model** (which incorporates angle metadata at all stages).  
+The GIF below **compares the predictions** of the **Baseline Model** vs. the **Best Model** (which incorporates angle metadata).  
 **🔽 Predictions Comparison (Baseline vs. Best Model) 🔽**
 
 <div align="center">
